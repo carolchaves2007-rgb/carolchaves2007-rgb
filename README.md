@@ -1,244 +1,183 @@
 <div align="center">
 
-# 🌷 CAROLINA CHAVES FRANÇA
+# 🌸 Carolina Chaves França
 
-### 💻 Desenvolvedora em evolução • ADS
+### 💻 Desenvolvedora em evolução • Estudante de Análise e Desenvolvimento de Sistemas
 
-**HTML · CSS · JavaScript · Java · SQL · Banco de Dados**
+<p>
+  <strong>Transformando ideias em código. ✨</strong>
+</p>
 
-<br>
-
-<a href="SEU_LINK_DO_GITHUB_PAGES">
-  <img src="https://img.shields.io/badge/🌸%20MEU%20PORTFÓLIO-f7a1c4?style=for-the-badge&labelColor=fff0f6&color=f29abd" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-╭──────────────────────────────────────────────╮
-
-### 💕 Olá, eu sou a Carolina!
-
-╰──────────────────────────────────────────────╯
-
-</div>
-
-Sou **Carolina Chaves França**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia, programação e criação de soluções digitais.
-
-Gosto de transformar ideias em código e criar projetos que sejam **bonitos, funcionais e fáceis de usar**. Estou construindo minha trajetória na tecnologia através de estudos, projetos próprios e experiências práticas.
-
-🌸 **Sempre aprendendo. Sempre criando. Sempre evoluindo.**
-
----
-
-<div align="center">
-
-## 🎀 SOBRE MIM
-
-</div>
-
-| 🌷 | |
-|---|---|
-| 🎓 **Formação** | Análise e Desenvolvimento de Sistemas |
-| 💻 **Área de interesse** | Desenvolvimento de Software e Web |
-| 🌐 **Front-end** | HTML5, CSS3 e JavaScript |
-| ☕ **Programação** | Java |
-| 🗄️ **Banco de dados** | SQL e MySQL |
-| 🔧 **Ferramentas** | Git, GitHub e VS Code |
-| 🚀 **Objetivo** | Crescer profissionalmente na área de tecnologia |
-
----
-
-<div align="center">
-
-## 💗 TECNOLOGIAS
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-fff0f6?style=for-the-badge&logo=html5&logoColor=e85d9e" />
-<img src="https://img.shields.io/badge/CSS3-fff0f6?style=for-the-badge&logo=css3&logoColor=d95c98" />
-<img src="https://img.shields.io/badge/JavaScript-fff0f6?style=for-the-badge&logo=javascript&logoColor=d99a28" />
-<img src="https://img.shields.io/badge/Java-fff0f6?style=for-the-badge&logo=openjdk&logoColor=c46a8c" />
-
-<br>
-
-<img src="https://img.shields.io/badge/SQL-fff0f6?style=for-the-badge&logo=mysql&logoColor=9b6680" />
-<img src="https://img.shields.io/badge/MySQL-fff0f6?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Git-fff0f6?style=for-the-badge&logo=git&logoColor=e85d9e" />
-<img src="https://img.shields.io/badge/GitHub-fff0f6?style=for-the-badge&logo=github&logoColor=8e5b72" />
-<img src="https://img.shields.io/badge/VS%20Code-fff0f6?style=for-the-badge&logo=visualstudiocode&logoColor=5c8fd6" />
+<p>
+  <a href="SEU_LINK_DO_GITHUB_PAGES">
+    <img src="https://img.shields.io/badge/🌸%20MEU%20PORTFÓLIO-ec6fae?style=for-the-badge&logoColor=white" alt="Meu Portfólio">
+  </a>
+</p>
 
 </div>
 
 ---
 
+## 👩🏻‍💻 Sobre mim
+
+Olá! Eu sou **Carolina Chaves França**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada por tecnologia, desenvolvimento e criação de soluções digitais.
+
+Estou construindo minha trajetória na área de desenvolvimento, sempre buscando transformar ideias em projetos práticos, funcionais e visualmente agradáveis.
+
+Tenho interesse especialmente em **desenvolvimento web, programação, banco de dados e criação de interfaces**. Gosto de aprender na prática, desenvolver meus próprios projetos e transformar cada desafio em uma oportunidade de evolução.
+
+Atualmente, venho ampliando meus conhecimentos em **HTML, CSS, JavaScript, Java, SQL, Git e GitHub**, além de estudar continuamente novas tecnologias e boas práticas de desenvolvimento.
+
+> 💗 Meu objetivo é evoluir constantemente como desenvolvedora, criar projetos cada vez melhores e construir uma carreira sólida na tecnologia.
+
+---
+
+## 🚀 Tecnologias e conhecimentos
+
 <div align="center">
 
-## 🎓 FORMAÇÃO
+![HTML5](https://img.shields.io/badge/HTML5-161616?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161616?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-161616?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-161616?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/MySQL-161616?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-161616?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
+---
+
+## 🎓 Formação
 
 ### 📚 Análise e Desenvolvimento de Sistemas
 
-**1º semestre**
+Estou cursando **Análise e Desenvolvimento de Sistemas**, desenvolvendo uma base em:
 
-</div>
-
-Durante minha formação venho desenvolvendo conhecimentos em:
-
-🌸 Desenvolvimento Web  
-🌸 Lógica de Programação  
-🌸 Programação em Java  
-🌸 Banco de Dados  
-🌸 SQL e MySQL  
-🌸 Interação Humano-Computador  
-🌸 Interfaces e UX  
-🌸 Desenvolvimento de Sistemas  
+- 💻 Lógica e fundamentos de programação
+- 🌐 Desenvolvimento web
+- 🗄️ Banco de dados
+- ☕ Programação em Java
+- 🧩 Engenharia e desenvolvimento de sistemas
+- 🎨 Interação Humano-Computador (IHC)
+- 🖥️ Desenvolvimento de interfaces
+- 🔧 Git e GitHub
 
 ---
 
-<div align="center">
+## 💼 Experiência profissional
 
-## 💼 EXPERIÊNCIA PROFISSIONAL
+Minha experiência profissional também contribui para minha formação, principalmente no desenvolvimento de **organização, responsabilidade, cumprimento de processos, resolução de problemas e trabalho em equipe**.
 
-### 🌷 Estagiária — Seguros de Vida
-
-**MARSH · 2026 — Atual**
-
-</div>
-
-Minha experiência profissional também vem fortalecendo habilidades importantes para minha carreira em tecnologia, como **organização, responsabilidade, resolução de problemas, cumprimento de prazos e trabalho em equipe**.
-
-**Principais atividades:**
-
-- Responsabilidade por dois operadores
-- Entrega de processos dentro dos prazos
-- Atuação com seguros de vida, saúde e odontológico
-- Resolução de backlog
-- Organização e melhoria de processos
+Atualmente, busco unir essa experiência com meus conhecimentos em tecnologia para crescer profissionalmente na área de desenvolvimento.
 
 ---
 
-<div align="center">
+## 🌷 Projetos em destaque
 
-## 🌸 MEUS PROJETOS
+### 🌸 Portfólio pessoal
+Meu portfólio desenvolvido para apresentar minha trajetória, conhecimentos, projetos e evolução na tecnologia.
 
-</div>
+**Tecnologias:** HTML • CSS • JavaScript
 
-### 💻 Portfólio Pessoal
-
-Meu portfólio pessoal desenvolvido para apresentar minha trajetória, conhecimentos e projetos.
-
-**HTML · CSS · JavaScript**
-
-**[🌷 Acessar meu portfólio](SEU_LINK_DO_GITHUB_PAGES)**
+👉 **[Acessar portfólio](SEU_LINK_DO_GITHUB_PAGES)**
 
 ---
 
 ### 📅 Sistema de Agendamento
 
-Projeto pensado para facilitar o gerenciamento de horários e atendimentos, especialmente para profissionais e salões.
+Projeto pensado para facilitar o gerenciamento de horários e atendimentos, especialmente para profissionais e estabelecimentos que trabalham com agendamentos.
 
-**HTML · CSS · JavaScript**
+**Tecnologias:** HTML • CSS • JavaScript
 
-**[🎀 Ver projeto](SEU_LINK_DO_REPOSITORIO_AGENDAMENTO)**
+👉 **[Ver projeto](SEU_LINK_DO_REPOSITORIO_AGENDAMENTO)**
 
 ---
 
 ### 🛍️ E-commerce
 
-Projeto de interface de loja virtual com foco em organização, apresentação de produtos e interação com o usuário.
+Projeto de interface de loja virtual, desenvolvido para praticar criação de páginas, produtos, interação com o usuário e funcionalidades de carrinho.
 
-**HTML · CSS · JavaScript**
+**Tecnologias:** HTML • CSS • JavaScript
 
-**[💗 Ver projeto](SEU_LINK_DO_REPOSITORIO_ECOMMERCE)**
-
----
-
-<div align="center">
-
-## 🌱 MINHA JORNADA
-
-<br>
-
-🌷 **HTML** ━━━━━━━━━━━━━━━━━━━  
-🌷 **CSS** ━━━━━━━━━━━━━━━━━━  
-🌷 **JavaScript** ━━━━━━━━━━━━━━━  
-🌷 **Java** ━━━━━━━━━━━━━━━  
-🌷 **SQL** ━━━━━━━━━━━━━━━━  
-🌷 **Git & GitHub** ━━━━━━━━━━━━━━━  
-
-</div>
-
-> Cada projeto representa uma nova oportunidade de aprender alguma coisa.
+👉 **[Ver projeto](SEU_LINK_DO_REPOSITORIO_ECOMMERCE)**
 
 ---
 
-<div align="center">
+## 📊 Minha evolução
 
-## 🎯 MEUS OBJETIVOS
+Estou construindo minha jornada na tecnologia passo a passo.
 
-<br>
+```text
+HTML          ████████████████████░░  Desenvolvimento web
+CSS           ███████████████████░░░  Interfaces e responsividade
+JavaScript    ████████████████░░░░░░  Lógica e interatividade
+Java          █████████████░░░░░░░░░  Programação
+SQL           ██████████████░░░░░░░░  Banco de dados
+Git/GitHub    ███████████████░░░░░░░  Versionamento
+```
 
-💗 Evoluir cada vez mais como desenvolvedora  
-🚀 Criar projetos reais e funcionais  
-🌐 Aprofundar meus conhecimentos em desenvolvimento web  
-🗄️ Evoluir em banco de dados e SQL  
-☕ Aperfeiçoar minha programação em Java  
-🎨 Criar interfaces modernas e intuitivas  
-📚 Continuar estudando novas tecnologias  
-💼 Construir uma carreira sólida na tecnologia  
-
-</div>
+> Os níveis acima representam minha jornada de aprendizado e não uma certificação de proficiência.
 
 ---
 
-<div align="center">
+## 🎯 Objetivos
 
-## 📊 GITHUB
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=carolchaves2007-rgb&show_icons=true&hide_border=true&bg_color=fff5f9&title_color=d95c98&icon_color=e889b1&text_color=6e5360" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolchaves2007-rgb&layout=compact&hide_border=true&bg_color=fff5f9&title_color=d95c98&text_color=6e5360" />
-
-</div>
+- 🚀 Evoluir cada vez mais como desenvolvedora
+- 💻 Criar projetos reais e funcionais
+- 🌐 Aprofundar meus conhecimentos em desenvolvimento web
+- 🗄️ Evoluir em banco de dados e SQL
+- ☕ Aperfeiçoar minha programação em Java
+- 🎨 Criar interfaces modernas e intuitivas
+- 📚 Continuar estudando novas tecnologias
+- 💼 Construir uma carreira na área de tecnologia
 
 ---
 
+## ✨ Um pouco mais sobre mim
+
+```text
+👩🏻 Nome: Carolina Chaves França
+🎓 Área: Análise e Desenvolvimento de Sistemas
+💻 Foco: Desenvolvimento e tecnologia
+🌐 HTML • CSS • JavaScript
+☕ Java
+🗄️ SQL • Banco de Dados
+🔧 Git • GitHub • VS Code
+🌱 Sempre aprendendo
+✨ Sempre evoluindo
+```
+
+---
+
+## 📫 Vamos nos conectar?
+
 <div align="center">
-
-## 💌 VAMOS NOS CONECTAR?
-
-<br>
 
 <a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-fff0f6?style=for-the-badge&logo=linkedin&logoColor=d95c98" />
+  <img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
 
-<a href="SEU_GITHUB">
-  <img src="https://img.shields.io/badge/GitHub-fff0f6?style=for-the-badge&logo=github&logoColor=8e5b72" />
+<a href="SEU_LINK_DO_GITHUB">
+  <img src="https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 <a href="SEU_EMAIL">
-  <img src="https://img.shields.io/badge/E--mail-fff0f6?style=for-the-badge&logo=gmail&logoColor=d95c98" />
+  <img src="https://img.shields.io/badge/E--mail-161616?style=for-the-badge&logo=gmail&logoColor=EA4335">
 </a>
-
-<a href="SEU_LINK_DO_GITHUB_PAGES">
-  <img src="https://img.shields.io/badge/Portfólio-fff0f6?style=for-the-badge&logo=googlechrome&logoColor=d95c98" />
-</a>
-
-<br><br>
-
-### 🌷 "Transformando ideias em código."
-
-<br>
-
-**Feito com ♡ por Carolina Chaves França**
 
 </div>
+
+---
+
+<div align="center">
+
+### 🌸 "Transformando ideias em código."
+
+**Obrigada por visitar meu perfil! 💗**
+
+</div>
+
 
